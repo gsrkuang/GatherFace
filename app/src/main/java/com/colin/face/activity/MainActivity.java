@@ -1,7 +1,6 @@
 package com.colin.face.activity;
 
 import android.os.Bundle;
-
 import com.colin.face.R;
 
 public class MainActivity extends BaseActivity {
